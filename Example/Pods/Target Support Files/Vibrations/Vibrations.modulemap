@@ -1,0 +1,6 @@
+framework module Vibrations {
+  umbrella header "Vibrations-umbrella.h"
+
+  export *
+  module * { export * }
+}

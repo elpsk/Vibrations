@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'Vibrations_Example' do
+  pod 'Vibrations', :path => '../'
+end

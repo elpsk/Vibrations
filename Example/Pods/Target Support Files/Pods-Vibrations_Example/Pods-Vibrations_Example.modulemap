@@ -1,0 +1,6 @@
+framework module Pods_Vibrations_Example {
+  umbrella header "Pods-Vibrations_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

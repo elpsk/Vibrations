@@ -1,0 +1,16 @@
+PODS:
+  - Vibrations (1.0.0)
+
+DEPENDENCIES:
+  - Vibrations (from `../`)
+
+EXTERNAL SOURCES:
+  Vibrations:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Vibrations: 7ec66e50f3b6465e58ee7b901b50c0cfab6daf46
+
+PODFILE CHECKSUM: 39a96dd5666d66a0747f7179e5d1461fbd06e86b
+
+COCOAPODS: 1.10.0.rc.1
