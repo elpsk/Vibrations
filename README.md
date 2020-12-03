@@ -17,7 +17,7 @@ Vibrations is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Vibrations'
+pod 'Vibrations', :git => 'https://github.com/elpsk/Vibrations.git'
 ```
 
 ## Author

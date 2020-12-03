@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   A collection of device vibrations, genlty offered in an enum.
                        DESC
-  s.homepage         = 'https://github.com/alberto.pasca@gmail.com/Vibrations'
+  s.homepage         = 'https://github.com/elpsk/Vibrations'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Alberto Pasca' => 'alberto.pasca@gmail.com' }
-  s.source           = { :git => 'https://github.com/alberto.pasca@gmail.com/Vibrations.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/elpsk/Vibrations.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
   s.source_files = 'Vibrations/Classes/**/*'
